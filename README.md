@@ -29,7 +29,7 @@ This project demonstrates an energy-efficient smart street light system powered 
    - Place the setup in a dark environment and simulate motion in front of the PIR sensor.
 
 ## Circuit Diagram
-Refer to the `Hardware/circuit_diagram.png` file for a detailed wiring schematic.
+Refer to the `circuit_diagram.jpg` file for a detailed wiring schematic.
 
 ## Media
 ### Prototype in Action
