@@ -33,7 +33,7 @@ Refer to the `circuit_diagram.jpg` file for a detailed wiring schematic.
 
 ## Media
 ### Prototype in Action
-![Prototype Working](media/Project Working.jpg)
+![Prototype Working](Project Working.jpg)
 
 ## Future Scope
 - **Adjustable Sensitivity:** Allow users to modify the PIR sensor’s sensitivity.
